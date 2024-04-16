@@ -65,7 +65,7 @@ Esta aplicación es una demostración básica y no implementa medidas avanzadas 
 
 Siéntete libre de contribuir a este proyecto o sugerir mejoras. Para cualquier consulta o problema, por favor abre un issue en este repositorio.
 
-**2.6 INVESTIGACION:  Formularios para la elaboracion de un CRUD**
+ # **2.6 INVESTIGACION:  Formularios para la elaboracion de un CRUD**
 
 CRUD se refiere a las cuatro operaciones básicas utilizadas en la manipulación de datos en la mayoría de las bases de datos relacionales. Cada letra representa una operación específica:
 
