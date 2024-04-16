@@ -216,7 +216,7 @@ if ($conn->query($sql) === TRUE) {
 $conn->close();
 ?>
 ```
-**Captura de el servidor que tiene el LAMP de TeddySun implementado en el**
+## **Captura de el servidor que tiene el LAMP de TeddySun implementado en el**
 <p align="center">
   <img width="460" height="200" src="https://github.com/PFLC/624-crus-basicos-Avantria/assets/93795004/fee43005-f2e4-4e57-b90c-adc98f04896d">
 </p>
