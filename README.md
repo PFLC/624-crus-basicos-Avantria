@@ -73,7 +73,7 @@ CRUD se refiere a las cuatro operaciones básicas utilizadas en la manipulación
   <img width="460" height="200" src="https://github.com/PFLC/624-crus-basicos-Avantria/assets/93795004/b9dc6283-49eb-473d-a60c-41f7c846405a">
 </p>
 
-**1. Crear un nuevo usuario:**
+## **1. Crear un nuevo usuario:**
 - Este código PHP se encarga de insertar un nuevo usuario en una base de datos MySQL.
 - Se conecta a la base de datos y recibe los datos del nuevo usuario a través de una solicitud POST.
 - Luego ejecuta una consulta SQL para insertar los datos del nuevo usuario en la tabla de usuarios.
@@ -108,7 +108,7 @@ if ($conn->query($sql) === TRUE) {
 $conn->close();
 ?>
 ```
-**2. Leer usuarios:**
+## **2. Leer usuarios:**
 
 - Este código PHP consulta la base de datos para recuperar todos los usuarios almacenados en la tabla de usuarios.
 - Se conecta a la base de datos y ejecuta una consulta SQL para seleccionar todos los registros de la tabla de usuarios.
@@ -145,7 +145,7 @@ $conn->close();
 ?>
 
 ```
-**3. Actualizar usuario:**
+## **3. Actualizar usuario:**
 
 - Este código PHP actualiza la información de un usuario existente en la base de datos.
 - Se conecta a la base de datos y recibe los nuevos datos del usuario a través de una solicitud POST, incluido el ID del usuario que se actualizará.
@@ -182,7 +182,7 @@ if ($conn->query($sql) === TRUE) {
 $conn->close();
 ?>
 ```
-**4. Eliminar usuario:**
+## **4. Eliminar usuario:**
 
 - Este código PHP elimina un usuario existente de la base de datos.
 - Se conecta a la base de datos y recibe el ID del usuario que se eliminará a través de una solicitud POST.
